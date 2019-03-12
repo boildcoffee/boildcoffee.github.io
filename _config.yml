@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: boildcoffee
+title: boiledcoffee
 subtitle:
-description: boildcoffee 技术交流
-author: boildcoffe jason zhang
+description: boiledcoffee 技术交流
+author: boiledcoffe jason zhang
 language: zh-CN
 timezone: 
-keywords: android,boildcoffee
+keywords: android,boiledcoffee
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
